@@ -1,0 +1,10 @@
+HDD Behavior Changes:
+fsutil behavior set disableLastAccess 1
+fsutil behavior set disable8dot3 1 
+
+
+SSD Behavior Changes:
+fsutil behavior set disableLastAccess 0
+fsutil behavior set disable8dot3 1 
+
+

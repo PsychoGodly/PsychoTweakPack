@@ -1,0 +1,11 @@
+command prompt lines: do one at a time as an admin
+
+fsutil behavior set disableLastAccess 0
+fsutil behavior set disable8dot3 1 
+//
+this command is to check if its set to 1 or 0
+fsutil behavior query DisableDeleteNotify
+
+this command is to set it to the correct value
+fsutil behavior set DisableDeleteNotify 0
+
