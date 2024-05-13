@@ -1,0 +1,8 @@
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler
+EnablePreemption
+set 0
+
+gpu hardware accel scheduling
+
+
+60 to 30 up 10 over 20 then 1 to 1 ratio

@@ -1,0 +1,8 @@
+gsync dis
+fxaa usage dis
+prevent anisotrophic on
+force p2 state off 
+max frames allowed 1
+mem allocation moderate
+ansel usage dis
+
