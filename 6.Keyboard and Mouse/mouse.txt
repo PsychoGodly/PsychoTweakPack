@@ -1,0 +1,6 @@
+additional mouse options- slider in middle. disable enhance pointer
+highest hz
+disable rbg
+debounce time lowest
+pointers scheme set to none
+1600 dpi

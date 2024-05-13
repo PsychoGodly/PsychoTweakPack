@@ -1,0 +1,5 @@
+kb search bar- repeat delay to none
+software- highest hz
+disable rbg
+delete software after
+filter keys in window settings
