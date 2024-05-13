@@ -1,0 +1,6 @@
+clear temp and %temp%
+clear prefetch
+flush dns
+ccleaner
+driver easy
+performance of windows
