@@ -1,0 +1,3 @@
+usb xhci compliant host controller random-no 0 1 2
+usb3.0 random- no 0 1 2
+
