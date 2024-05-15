@@ -1,0 +1,12 @@
+@echo off
+set "APK_PATH=%~dp0gnirehtet.apk"
+
+echo Installing gnirehtet.apk...
+adb install "%APK_PATH%"
+echo Installation complete.
+
+echo Running gnirehtet.apk...
+adb shell am start -n com.genymobile.gnirehtet/.MainActivity
+echo gnirehtet.apk is now running.
+
+pause
