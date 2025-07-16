@@ -1,0 +1,4305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DisplayDriverUninstaller Version="18.0.2.3">
+	<LogEntries>
+		<Event>
+			<Time>5/2/2021 1:10:00 AM</Time>
+			<Message>The following paths are detected.</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Key>[Found] AppExeFile</Key>
+					<Value>D:\aysa\SOFTWARES\DDU v18.0.1.9\DDU v18.0.2.3\Display Driver Uninstaller.exe</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] AppBase</Key>
+					<Value>D:\aysa\SOFTWARES\DDU v18.0.1.9\DDU v18.0.2.3\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Settings</Key>
+					<Value>D:\aysa\SOFTWARES\DDU v18.0.1.9\DDU v18.0.2.3\Settings\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Logs</Key>
+					<Value>D:\aysa\SOFTWARES\DDU v18.0.1.9\DDU v18.0.2.3\DDU Logs\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Language</Key>
+					<Value>D:\aysa\SOFTWARES\DDU v18.0.1.9\DDU v18.0.2.3\Settings\Languages\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] ProgramFiles</Key>
+					<Value>C:\Program Files\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] ProgramFilesx86</Key>
+					<Value>C:\Program Files (x86)\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] Roaming</Key>
+					<Value>C:\ProgramData\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Not found] AppBaseRoaming</Key>
+					<Value>C:\ProgramData\DisplayDriverUninstaller\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] SystemDrive</Key>
+					<Value>C:\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] WinDir</Key>
+					<Value>C:\Windows\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] UserPath</Key>
+					<Value>C:\Users\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] System32</Key>
+					<Value>C:\Windows\system32\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] SysWOW64</Key>
+					<Value>C:\Windows\SysWOW64\</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:00 AM</Time>
+			<Message>System Information</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>DDU Version</Key>
+					<Value>18.0.2.3</Value>
+				</KvP>
+				<KvP>
+					<Key>OS</Key>
+					<Value>Windows 10</Value>
+				</KvP>
+				<KvP>
+					<Key>Architecture</Key>
+					<Value>x64</Value>
+				</KvP>
+				<KvP>
+					<Key>UserRights</Key>
+					<Value>Admin</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>GPU #0000</Key>
+					<Value>AMD Radeon RX 6700 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>GPU DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;REV_C1</Value>
+				</KvP>
+				<KvP>
+					<Key>Vbios</Key>
+					<Value>113-D5121100-101</Value>
+				</KvP>
+				<KvP>
+					<Key>Detected Driver(s) Version(s)</Key>
+					<Value>27.20.21002.112</Value>
+				</KvP>
+				<KvP>
+					<Key>INF name</Key>
+					<Value>oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>INF section</Key>
+					<Value>ati2mtag_Navi22</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Warning>
+			<Time>5/2/2021 1:10:00 AM</Time>
+			<Message>We are not in Safe Mode</Message>
+		</Warning>
+		<Event>
+			<Time>5/2/2021 1:10:00 AM</Time>
+			<Message>The following third-party driver packages are installed on this computer</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Value>C:\Windows\inf\oem0.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem1.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>INTEL</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem10.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem11.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem12.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem13.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem14.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem15.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem16.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem17.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Keyboard</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Mouse</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem21.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>ACER</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem23.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>INTEL</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem24.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>INTEL</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem25.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem26.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel Corporation</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HDC</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem27.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem28.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>FiiO</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem29.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>FiiO</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>fiio_usbaudio_sc</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem3.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem30.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>XMOS</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem31.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>XMOS</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>xmos_s_usbaudio_sc</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem32.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem33.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem34.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem35.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Printer</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem36.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Printer</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem37.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>HP</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Image</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem38.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Hewlett-Packard</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USB</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem39.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>HP</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Printer</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem4.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem40.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>VB-Audio Software</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem41.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem42.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem5.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>INTEL</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem8.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek Semiconductor Corp.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem9.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek Semiconductor Corp.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:01 AM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:01 AM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: atiesrxx</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:01 AM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:12 AM</Time>
+			<Message>Restore Point Created</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Used settings for cleaning!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Paths</Key>
+					<Value>Display_Driver_Uninstaller.AppPaths</Value>
+				</KvP>
+				<KvP>
+					<Key>Success</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>GPURemovedSuccess</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventClose</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedGPU</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedAUDIO</Key>
+					<Value>None</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedType</Key>
+					<Value>GPU</Value>
+				</KvP>
+				<KvP>
+					<Key>AppName</Key>
+					<Value>Display Driver Uninstaller</Value>
+				</KvP>
+				<KvP>
+					<Key>WinVersion</Key>
+					<Value>Win10</Value>
+				</KvP>
+				<KvP>
+					<Key>WinIs64</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWinXp</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin8Higher</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin10</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ArgumentsArray</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>Silent</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Shutdown</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Restart</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>NoSafeModeMsg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanComplete</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanNvidia</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanAmd</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanIntel</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanRealtek</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanSoundBlaster</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventWinUpdateArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveMonitors</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>NoRestorePoint</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveCrimsonCache</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDDirs</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAudioBus</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDKMPFD</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveNvidiaDirs</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemovePhysX</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Remove3DTVPlay</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveGFE</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveVulkan</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>HasCleanArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>HasLinkArg</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Uninstalling AMD driver ...</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Removing service(s) except for the &lt;device driver service(s)&gt;</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Service : AMD External Events Utility stopped.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:17 AM</Time>
+			<Message>Service : AMD External Events Utility removed.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:18 AM</Time>
+			<Message>Executing SetupAPI: Remove Audio controler associated to the GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:18 AM</Time>
+			<Message>Device(s) found: 1</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>media</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2A9D1E8E&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>226</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>High Definition Audio Bus</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_AB28&amp;SUBSYS_AB281002&amp;REV_00\6&amp;403C6DE&amp;0&amp;01000008</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002
+HDAUDIO\FUNC_01&amp;GF&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem42.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>Device(s) found: 8</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>audioendpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (SMSL USB DAC)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{66975C68-E33E-4DD1-9DE5-7FA52B1D1B1F}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>94</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>SMSL USB DAC</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>TUSBAUDIO_ENUM\VID_152A&amp;PID_85DD&amp;REV_0104&amp;KS\6&amp;27715D44&amp;3&amp;2</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (3- FiiO Q series)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{78E32A23-B01B-4AB1-92CF-A911D545735A}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>95</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>FiiO Q series</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>TUSBAUDIO_ENUM\VID_2972&amp;PID_0047&amp;KS\6&amp;2F8614EF&amp;0&amp;2</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (FiiO Q series)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{A53168B7-73D2-4108-A8BF-B1F41B463E7D}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>96</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>FiiO Q series</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>TUSBAUDIO_ENUM\VID_2972&amp;PID_0047&amp;KS\6&amp;6A4FB8D&amp;0&amp;1</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (Realtek(R) Audio)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{C1DA9283-6442-443E-9DDF-52016341C4D2}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>97</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (2- SMSL USB DAC)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{6F002C4A-2E4E-4463-816E-66904356BBAC}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>141</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>SMSL USB DAC</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>TUSBAUDIO_ENUM\VID_152A&amp;PID_85DD&amp;REV_0104&amp;KS\6&amp;D4DFC93&amp;0&amp;8</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (2- FiiO Q series)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{774DA3EB-3F51-46B3-8411-673ED2075672}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>185</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>FiiO Q series</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>TUSBAUDIO_ENUM\VID_2972&amp;PID_0047&amp;KS\6&amp;53944E8&amp;0&amp;8</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{84DAA2AF-0A68-49C1-BE8D-CA2A122C5DFC}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>192</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>BLUE USB Audio 2.0</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>USB\VID_074D&amp;PID_0002&amp;MI_00\6&amp;1E983DC0&amp;0&amp;0000</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{B04946DB-A563-4A9F-A35E-6385F7CED980}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>206</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>BLUE USB Audio 2.0</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>USB\VID_074D&amp;PID_0002&amp;MI_00\6&amp;1E983DC0&amp;0&amp;0000</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>Executing SetupAPI: Remove SoftwareComponent.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>Device(s) found: 6</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) Management and Security Application Local Management</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_LMS_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>24</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_06E0&amp;SUBSYS_7C751462&amp;REV_00\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\5DCEB103-DD64-403C-A17C-94FC5F917A9C</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem34.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Realtek Audio Effects Component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Audio Effects Component</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>43</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;AID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem11.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Composant logiciel générique</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Audio Universal Service</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>79</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;SID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem12.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) Dynamic Application Loader Host Interface</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_DAL_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>122</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_06E0&amp;SUBSYS_7C751462&amp;REV_00\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem14.inf
+C:\Windows\INF\oem33.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Realtek Hardware Support Application</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Hardware Support Application</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>124</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;HID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) iCLS Client</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_ICLS_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>225</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_06E0&amp;SUBSYS_7C751462&amp;REV_00\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem13.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>SetupAPI: Remove SoftwareComponent Complete.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; AMD High Definition Audio Device</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2A9D1E8E&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>226</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>High Definition Audio Bus</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_AB28&amp;SUBSYS_AB281002&amp;REV_00\6&amp;403C6DE&amp;0&amp;01000008</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002
+HDAUDIO\FUNC_01&amp;GF&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem42.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>5/9/2020 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.19041.264</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\hdaudio.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>3/27/2021</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>10/16/2020 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.1.18</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\oem42.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>1/18/2021</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>Uninstalling OEM Inf:  oem42.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\INF\oem42.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:19 AM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2A9D1E8E&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>226</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>SetupAPI: Remove Audio controler Complete.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: amdfendrsr</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>Removing AMD Audio Endpoints</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>Device(s) found: 8</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>audioendpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (SMSL USB DAC)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{66975C68-E33E-4DD1-9DE5-7FA52B1D1B1F}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>94</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (3- FiiO Q series)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{78E32A23-B01B-4AB1-92CF-A911D545735A}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>95</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (FiiO Q series)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{A53168B7-73D2-4108-A8BF-B1F41B463E7D}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>96</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (Realtek(R) Audio)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{C1DA9283-6442-443E-9DDF-52016341C4D2}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>97</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>3</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (2- SMSL USB DAC)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{6F002C4A-2E4E-4463-816E-66904356BBAC}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>141</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (2- FiiO Q series)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{774DA3EB-3F51-46B3-8411-673ED2075672}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>185</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{84DAA2AF-0A68-49C1-BE8D-CA2A122C5DFC}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>192</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>1</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Point de terminaison audio</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{B04946DB-A563-4A9F-A35E-6385F7CED980}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>206</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:20 AM</Time>
+			<Message>Executing SetupAPI: Remove GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>Devices found: 1</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002&amp;CC_03</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD Radeon RX 6700 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002&amp;REV_C1\6&amp;403C6DE&amp;0&amp;00000008</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>69</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002&amp;REV_C1
+PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002
+PCI\VEN_1002&amp;DEV_73DF&amp;CC_030000
+PCI\VEN_1002&amp;DEV_73DF&amp;CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;REV_C1
+PCI\VEN_1002&amp;DEV_73DF
+PCI\VEN_1002&amp;CC_030000
+PCI\VEN_1002&amp;CC_0300
+PCI\VEN_1002
+PCI\CC_030000
+PCI\CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem2.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>Executing SetupAPI: Remove SoftwareComponent.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>Device(s) found: 6</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) Management and Security Application Local Management</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_LMS_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>24</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_06E0&amp;SUBSYS_7C751462&amp;REV_00\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\5DCEB103-DD64-403C-A17C-94FC5F917A9C</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem34.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Realtek Audio Effects Component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Audio Effects Component</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>43</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;AID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem11.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Composant logiciel générique</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Audio Universal Service</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>79</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;SID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem12.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) Dynamic Application Loader Host Interface</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_DAL_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>122</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_06E0&amp;SUBSYS_7C751462&amp;REV_00\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem14.inf
+C:\Windows\INF\oem33.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Realtek Hardware Support Application</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Hardware Support Application</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>124</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Realtek(R) Audio</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0892&amp;SUBSYS_14629C75&amp;REV_1003\4&amp;34ACFA26&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;HID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) iCLS Client</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_ICLS_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>225</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_06E0&amp;SUBSYS_7C751462&amp;REV_00\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem13.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>Device(s) found: 6</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) Management and Security Application Local Management</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_LMS_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>24</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\5DCEB103-DD64-403C-A17C-94FC5F917A9C</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem34.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Realtek Audio Effects Component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Audio Effects Component</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>43</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;AID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem11.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Composant logiciel générique</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Audio Universal Service</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>79</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;SID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem12.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) Dynamic Application Loader Host Interface</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_DAL_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>122</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem14.inf
+C:\Windows\INF\oem33.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Realtek Hardware Support Application</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Realtek Hardware Support Application</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&amp;5&amp;7993307&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>124</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\VEN_10EC&amp;HID_0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Intel(R) iCLS Client</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_ICLS_COMPONENT&amp;4&amp;25341883&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>225</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem13.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>SetupAPI: Remove SoftwareComponent Complete.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; AMD Radeon RX 6700 XT</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD Radeon RX 6700 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002&amp;REV_C1\6&amp;403C6DE&amp;0&amp;00000008</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>69</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002&amp;REV_C1
+PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002
+PCI\VEN_1002&amp;DEV_73DF&amp;CC_030000
+PCI\VEN_1002&amp;DEV_73DF&amp;CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;REV_C1
+PCI\VEN_1002&amp;DEV_73DF
+PCI\VEN_1002&amp;CC_030000
+PCI\VEN_1002&amp;CC_0300
+PCI\VEN_1002
+PCI\CC_030000
+PCI\CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem2.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Microsoft Basic Display Adapter</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>(Standard display types)</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.19041.868</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\display.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>3/27/2021</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>AMD Radeon RX 6700 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>4/13/2021 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>27.20.21002.112</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/19/2021</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:22 AM</Time>
+			<Message>Uninstalling OEM Inf:  oem2.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\INF\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:21 AM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD Radeon RX 6700 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002&amp;REV_C1\6&amp;403C6DE&amp;0&amp;00000008</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>69</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002&amp;REV_C1
+PCI\VEN_1002&amp;DEV_73DF&amp;SUBSYS_0E361002
+PCI\VEN_1002&amp;DEV_73DF&amp;CC_030000
+PCI\VEN_1002&amp;DEV_73DF&amp;CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:23 AM</Time>
+			<Message>SetupAPI: Remove GPU(s) Complete.</Message>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:23 AM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Warning>
+			<Time>5/2/2021 1:10:23 AM</Time>
+			<Message>Uninstalling OEM Inf:  oem25.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem25.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>5/2/2021 1:10:23 AM</Time>
+			<Message>Uninstalling OEM Inf:  oem3.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem3.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>5/2/2021 1:10:42 AM</Time>
+			<Message>&gt;&gt; Successfully saved log to file!</Message>
+		</Event>
+	</LogEntries>
+</DisplayDriverUninstaller>

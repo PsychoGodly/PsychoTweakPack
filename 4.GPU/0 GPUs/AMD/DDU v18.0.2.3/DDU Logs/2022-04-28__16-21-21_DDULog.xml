@@ -1,0 +1,5146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DisplayDriverUninstaller Version="18.0.2.3">
+	<LogEntries>
+		<Event>
+			<Time>4/28/2022 4:21:21 PM</Time>
+			<Message>The following paths are detected.</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Key>[Found] AppExeFile</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Display Driver Uninstaller.exe</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] AppBase</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Settings</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Settings\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Logs</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\DDU Logs\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Language</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Settings\Languages\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] ProgramFiles</Key>
+					<Value>C:\Program Files\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] ProgramFilesx86</Key>
+					<Value>C:\Program Files (x86)\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] Roaming</Key>
+					<Value>C:\ProgramData\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Not found] AppBaseRoaming</Key>
+					<Value>C:\ProgramData\DisplayDriverUninstaller\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] SystemDrive</Key>
+					<Value>C:\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] WinDir</Key>
+					<Value>C:\Windows\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] UserPath</Key>
+					<Value>C:\Users\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] System32</Key>
+					<Value>C:\Windows\system32\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] SysWOW64</Key>
+					<Value>C:\Windows\SysWOW64\</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:23 PM</Time>
+			<Message>System Information</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>DDU Version</Key>
+					<Value>18.0.2.3</Value>
+				</KvP>
+				<KvP>
+					<Key>OS</Key>
+					<Value>Windows 10</Value>
+				</KvP>
+				<KvP>
+					<Key>Architecture</Key>
+					<Value>x64</Value>
+				</KvP>
+				<KvP>
+					<Key>UserRights</Key>
+					<Value>Admin</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>GPU #0000</Key>
+					<Value>AMD Radeon RX 6900 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>GPU DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;REV_C0</Value>
+				</KvP>
+				<KvP>
+					<Key>Vbios</Key>
+					<Value>xxx-xxx-xxx</Value>
+				</KvP>
+				<KvP>
+					<Key>Detected Driver(s) Version(s)</Key>
+					<Value>30.0.15021.1001</Value>
+				</KvP>
+				<KvP>
+					<Key>INF name</Key>
+					<Value>oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>INF section</Key>
+					<Value>ati2mtag_Navi21</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Warning>
+			<Time>4/28/2022 4:21:23 PM</Time>
+			<Message>We are not in Safe Mode</Message>
+		</Warning>
+		<Event>
+			<Time>4/28/2022 4:21:23 PM</Time>
+			<Message>The following third-party driver packages are installed on this computer</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Value>C:\Windows\inf\oem0.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Apple</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem1.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Apple, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USBDevice</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem10.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>UWBPCI</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem11.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek Semiconductor Corp.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem12.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Samsung Electronics Co., Ltd</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SCSIAdapter</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem13.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Marvell</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem14.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Asmedia Technology</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SCSIAdapter</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem15.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem17.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel Corporation</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Bluetooth</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel(R) Corporation</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel(R) Corporation</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem21.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem23.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem3.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem4.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem5.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem8.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem9.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>UWBPCI</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:24 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:25 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:25 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Error>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>System Restored Point could not be Created!</Message>
+			<ExceptionData>
+				<Message>Unable to load DLL 'srclient.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)</Message>
+				<TargetSite>SRSetRestorePoint</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.SystemRestore.SRSetRestorePoint(IntPtr pRestorePtSpec, IntPtr pSMgrStatus)
+   at Display_Driver_Uninstaller.Win32.SystemRestore.EndRestore(Int64 lSeqNum) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\SystemRestore.vb:line 197
+   at Display_Driver_Uninstaller.frmSystemRestore.CreateSystemRestore() in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\frmSystemRestore.xaml.vb:line 39</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Used settings for cleaning!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Paths</Key>
+					<Value>Display_Driver_Uninstaller.AppPaths</Value>
+				</KvP>
+				<KvP>
+					<Key>Success</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>GPURemovedSuccess</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventClose</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedGPU</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedAUDIO</Key>
+					<Value>None</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedType</Key>
+					<Value>GPU</Value>
+				</KvP>
+				<KvP>
+					<Key>AppName</Key>
+					<Value>Display Driver Uninstaller</Value>
+				</KvP>
+				<KvP>
+					<Key>WinVersion</Key>
+					<Value>Win10</Value>
+				</KvP>
+				<KvP>
+					<Key>WinIs64</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWinXp</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin8Higher</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin10</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ArgumentsArray</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>Silent</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Shutdown</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Restart</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>NoSafeModeMsg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanComplete</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanNvidia</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanAmd</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanIntel</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanRealtek</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanSoundBlaster</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventWinUpdateArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveMonitors</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>NoRestorePoint</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveCrimsonCache</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDDirs</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAudioBus</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDKMPFD</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveNvidiaDirs</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemovePhysX</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Remove3DTVPlay</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveGFE</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveVulkan</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>HasCleanArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>HasLinkArg</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Uninstalling AMD driver ...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Removing service(s) except for the &lt;device driver service(s)&gt;</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Service : AMD External Events Utility stopped.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Service : AMD External Events Utility removed.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Executing SetupAPI: Remove Audio controler associated to the GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:26 PM</Time>
+			<Message>Device(s) found: 1</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>media</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2ED7EBCD&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>53</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>High Definition Audio Controller</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_AB28&amp;SUBSYS_AB281002&amp;REV_00\6&amp;2E44EE73&amp;0&amp;01000008</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002
+HDAUDIO\FUNC_01&amp;GF&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Device(s) found: 3</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>audioendpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>5 - OMEN X 27 (AMD High Definition Audio Device)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{CD44F4AA-F5FA-48A5-954C-ABC06F65FE8E}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>84</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2ED7EBCD&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{C6F9CA3E-A697-48F0-B710-F26BCBE7EA18}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>94</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>BLUE USB Audio 2.0</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>USB\VID_074D&amp;PID_0002&amp;MI_00\7&amp;1E983DC0&amp;0&amp;0000</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (K3)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{4D8A044C-C7BA-4AE6-9531-44F823DE62FF}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>130</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>K3</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>USB\VID_2972&amp;PID_0047&amp;MI_00\7&amp;2CA1451E&amp;0&amp;0000</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; 5 - OMEN X 27 (AMD High Definition Audio Device)</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>5 - OMEN X 27 (AMD High Definition Audio Device)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{CD44F4AA-F5FA-48A5-954C-ABC06F65FE8E}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>84</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2ED7EBCD&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>REMOVABLE (0x4)
+UNIQUEID (0x10)
+RAWDEVICEOK (0x40)
+SURPRISEREMOVALOK (0x80)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>4/11/2018 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.17134.1</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\audioendpoint.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/11/2018</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Generic software device</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.17134.1</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\c_swdevice.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/11/2018</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>SoftwareDevice</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>5 - OMEN X 27 (AMD High Definition Audio Device)</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{CD44F4AA-F5FA-48A5-954C-ABC06F65FE8E}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>84</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Executing SetupAPI: Remove SoftwareComponent.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Device(s) found: 4</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_ES_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>27</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_7AE8&amp;SUBSYS_86941043&amp;REV_11\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT_ES_ONLY</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_WMI_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>71</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_7AE8&amp;SUBSYS_86941043&amp;REV_11\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\06657A6D-FE0F-4C90-8DDA-A1501C74CE4B</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_DAL_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>73</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_7AE8&amp;SUBSYS_86941043&amp;REV_11\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\THUNDERBOLTHOSTCONTROLLERHSA&amp;7&amp;48A4588&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>181</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Thunderbolt(TM) Controller - 1137</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_1137&amp;SUBSYS_87F61043&amp;REV_00\2EBD6CA19000AA0000</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_Intel&amp;&amp;COMPONENT_ThunderboltHSA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>SetupAPI: Remove SoftwareComponent Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; AMD High Definition Audio Device</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2ED7EBCD&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>53</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>High Definition Audio Controller</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_AB28&amp;SUBSYS_AB281002&amp;REV_00\6&amp;2E44EE73&amp;0&amp;01000008</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;REV_1008
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;VEN_1002
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002&amp;CTLR_DEV_AB28
+HDAUDIO\FUNC_01&amp;CTLR_VEN_1002
+HDAUDIO\FUNC_01&amp;GF&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>9/4/2019 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.17134.1006</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\hdaudio.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>1/30/2022</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>7/27/2021 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.1.23</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/28/2022</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem15.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\INF\oem15.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD High Definition Audio Device</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008\7&amp;2ED7EBCD&amp;0&amp;0001</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>53</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100&amp;REV_1008
+HDAUDIO\FUNC_01&amp;VEN_1002&amp;DEV_AA01&amp;SUBSYS_00AA0100</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>SetupAPI: Remove Audio controler Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Removing AMD Audio Endpoints</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Device(s) found: 2</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>audioendpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{C6F9CA3E-A697-48F0-B710-F26BCBE7EA18}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>94</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (K3)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{4D8A044C-C7BA-4AE6-9531-44F823DE62FF}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>130</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Executing SetupAPI: Remove GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Devices found: 1</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002&amp;CC_03</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD Radeon RX 6900 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458&amp;REV_C0\6&amp;2E44EE73&amp;0&amp;00000008</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>143</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458&amp;REV_C0
+PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458
+PCI\VEN_1002&amp;DEV_73BF&amp;CC_030000
+PCI\VEN_1002&amp;DEV_73BF&amp;CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;REV_C0
+PCI\VEN_1002&amp;DEV_73BF
+PCI\VEN_1002&amp;CC_030000
+PCI\VEN_1002&amp;CC_0300
+PCI\VEN_1002
+PCI\CC_030000&amp;DT_1
+PCI\CC_030000
+PCI\CC_0300&amp;DT_1
+PCI\CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem22.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Executing SetupAPI: Remove SoftwareComponent.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Device(s) found: 4</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_ES_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>27</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_7AE8&amp;SUBSYS_86941043&amp;REV_11\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT_ES_ONLY</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_WMI_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>71</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_7AE8&amp;SUBSYS_86941043&amp;REV_11\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\06657A6D-FE0F-4C90-8DDA-A1501C74CE4B</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_DAL_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>73</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Intel(R) Management Engine Interface #1</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_7AE8&amp;SUBSYS_86941043&amp;REV_11\3&amp;11583659&amp;0&amp;B0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\THUNDERBOLTHOSTCONTROLLERHSA&amp;7&amp;48A4588&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>181</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ParentDevice</Key>
+					<Value>Thunderbolt(TM) Controller - 1137</Value>
+				</KvP>
+				<KvP>
+					<Key>Parent DeviceID</Key>
+					<Value>PCI\VEN_8086&amp;DEV_1137&amp;SUBSYS_87F61043&amp;REV_00\2EBD6CA19000AA0000</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_Intel&amp;&amp;COMPONENT_ThunderboltHSA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Device(s) found: 4</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_ES_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>27</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT_ES_ONLY</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_WMI_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>71</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\06657A6D-FE0F-4C90-8DDA-A1501C74CE4B</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\OEM_DAL_COMPONENT&amp;4&amp;14850405&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>73</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic software component</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\DRIVERENUM\THUNDERBOLTHOSTCONTROLLERHSA&amp;7&amp;48A4588&amp;0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>181</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>SWC\PROVIDER_Intel&amp;&amp;COMPONENT_ThunderboltHSA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>SWC\Generic
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>SetupAPI: Remove SoftwareComponent Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; AMD Radeon RX 6900 XT</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD Radeon RX 6900 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458&amp;REV_C0\6&amp;2E44EE73&amp;0&amp;00000008</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>143</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458&amp;REV_C0
+PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458
+PCI\VEN_1002&amp;DEV_73BF&amp;CC_030000
+PCI\VEN_1002&amp;DEV_73BF&amp;CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;REV_C0
+PCI\VEN_1002&amp;DEV_73BF
+PCI\VEN_1002&amp;CC_030000
+PCI\VEN_1002&amp;CC_0300
+PCI\VEN_1002
+PCI\CC_030000&amp;DT_1
+PCI\CC_030000
+PCI\CC_0300&amp;DT_1
+PCI\CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>C:\Windows\INF\oem22.inf</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Microsoft Basic Display Adapter</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>(Standard display types)</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.17134.1</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\display.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/11/2018</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>AMD Radeon RX 6900 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>3/31/2022 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>30.0.15021.1001</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/28/2022</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem22.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\INF\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:27 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>AMD Radeon RX 6900 XT</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458&amp;REV_C0\6&amp;2E44EE73&amp;0&amp;00000008</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>143</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458&amp;REV_C0
+PCI\VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C1458
+PCI\VEN_1002&amp;DEV_73BF&amp;CC_030000
+PCI\VEN_1002&amp;DEV_73BF&amp;CC_0300</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>SetupAPI: Remove GPU(s) Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem23.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem23.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>SetupAPI: Remove Audio/HDMI Complete</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Executing SetupAPI: Remove Monitor(s) started</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Device(s) found: 2</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\7&amp;2060D55E&amp;0&amp;UID260</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>60</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>199</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; Generic PnP Monitor</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\7&amp;2060D55E&amp;0&amp;UID260</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>60</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>REMOVABLE (0x4)
+SILENTINSTALL (0x20)
+RAWDEVICEOK (0x40)
+SURPRISEREMOVALOK (0x80)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>(Standard monitor types)</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.17134.1</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\monitor.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/11/2018</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\7&amp;2060D55E&amp;0&amp;UID260</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>60</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; Generic PnP Monitor</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>199</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>REMOVABLE (0x4)
+SILENTINSTALL (0x20)
+RAWDEVICEOK (0x40)
+SURPRISEREMOVALOK (0x80)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>(Standard monitor types)</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.17134.1</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\monitor.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>4/11/2018</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>199</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>SetupAPI: Remove Monitor(s) Complete .</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Cleaning Process/Services...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:28 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Warning>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Failed to remove the service : amdkmdag</Message>
+		</Warning>
+		<Warning>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Failed to remove the service : amdkmdap</Message>
+		</Warning>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Service : AtiHDAudioService removed.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Service : AtiHDAudioService removed.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Warning>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Failed to remove the service : atierecord</Message>
+		</Warning>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Process/Services CleanUP Complete</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Cleaning known Regkeys</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Starting dcom/clsid/appid/typelib cleanup</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Begin ClassRoot CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>End ClassRoot CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:29 PM</Time>
+			<Message>Start Interface CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>END Interface CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>Instance class cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>MediaFoundation cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\MediaFoundation\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\MediaFoundation\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>AppID and clsidleftover cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>Begin clsidleftover CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\Attributes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\InputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\MFTFlags - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\OutputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\17796aeb-0f66-4663-b8fb-99cbee0224ce\/ - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce}\InProcServer32\ThreadingModel - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\InprocServer32\ThreadingModel - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\InprocServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\ProgID - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\Programmable\/ - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\Programmable - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\TypeLib - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\VersionIndependentProgID - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\InprocServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\ProgID - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\Programmable - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\TypeLib - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000}\VersionIndependentProgID - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{5E2121EE-0300-11D4-8D3B-444553540000} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\Attributes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\InputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\MFTFlags - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\OutputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\MediaFoundation\Transforms\Categories\f79eac7d-e545-4387-bdee-d647d7bde42a\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\Categories\f79eac7d-e545-4387-bdee-d647d7bde42a\ADC9BC80-0F41-46C6-AB75-D693D793597D\/ - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\MediaFoundation\Transforms\Categories\f79eac7d-e545-4387-bdee-d647d7bde42a\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D}\InProcServer32\ThreadingModel - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:30 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\Attributes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\InputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\MFTFlags - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce\OutputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\17796aeb-0f66-4663-b8fb-99cbee0224ce\/ - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\Categories\d6c02d4b-6833-45b4-971a-05a4b04bab91\17796aeb-0f66-4663-b8fb-99cbee0224ce - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce}\InProcServer32\ThreadingModel - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{17796aeb-0f66-4663-b8fb-99cbee0224ce} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\Attributes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\InputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\MFTFlags - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D\OutputTypes - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\MediaFoundation\Transforms\Categories\f79eac7d-e545-4387-bdee-d647d7bde42a\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\Categories\f79eac7d-e545-4387-bdee-d647d7bde42a\ADC9BC80-0F41-46C6-AB75-D693D793597D\/ - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\WOW6432Node\MediaFoundation\Transforms\Categories\f79eac7d-e545-4387-bdee-d647d7bde42a\ADC9BC80-0F41-46C6-AB75-D693D793597D - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D}\InProcServer32\ThreadingModel - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Wow6432Node\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D}\InProcServer32 - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:31 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{ADC9BC80-0F41-46C6-AB75-D693D793597D} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Orphan cleanUp</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>End Orphan cleanUp</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>End clsidleftover CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Record CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Assembly CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\vulkan-1-999-0-0-0.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\vulkan-1.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\vulkaninfo-1-999-0-0-0.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\vulkaninfo.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\vulkan-1-999-0-0-0.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\vulkan-1.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\vulkaninfo-1-999-0-0-0.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\vulkaninfo.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>ngenservice Clean</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Pnplockdownfiles region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amdave32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdave64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amdgfxinfo32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdgfxinfo64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdhip64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amdihk32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdihk64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/AMDKernelEvents.man - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/AMD/amdkmpfd/amdkmpfd.ctz - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/AMD/amdkmpfd/amdkmpfd.itz - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/AMD/amdkmpfd/amdkmpfd.stz - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amdlvr32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdlvr64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdmiracast.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amdpcom32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdpcom64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amdxc32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amdxc64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amf-mft-mjpeg-decoder32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amf-mft-mjpeg-decoder64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/amfrt32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/amfrt64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/ati2erec.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atiadlxx.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atiadlxx.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atiadlxy.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atiapfxx.blb - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atiapfxx.blb - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/aticfx32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/aticfx64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atidemgy.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atidxx32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atidxx64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atieah32.exe - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atieah64.exe - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atieclxx.exe - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atig6txx.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atigktxx.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/system32/drivers/AtihdWT6.sys - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atimpc32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atimpc64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atimuixx.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atisamu32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atisamu64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/atiumd6a.cap - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/atiumdva.cap - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/ativvsva.dat - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/ativvsva.dat - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/ativvsvl.dat - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/ativvsvl.dat - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/clinfo.exe - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/dgtrayicon.exe - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/GameManager32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/GameManager64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/kapp_ci.sbin - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/kapp_si.sbin - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/mantle32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/mantle64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/mantleaxl32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/mantleaxl64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/mcl32.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/mcl64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/Rapidfire.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/Rapidfire64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/SysWOW64/RapidFireServer.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/RapidFireServer64.dll - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/samu_krnl_ci.sbin - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpLockdownFiles\%SystemRoot%/System32/samu_krnl_isv_ci.sbin - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\Atierecord\eRecordEnable - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\Atierecord\eRecordEnablePopups - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\Atierecord - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\amdkmdap\KMD_MgpuSlsWsSupport - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\amdkmdap\PciFilterDriverInstallEnabled - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SYSTEM\CurrentControlSet\Services\amdkmdap - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>System environement cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Remove eventviewer stuff</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\eventlog\Application\ATIeRecord - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Atierecord - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_CLASSES_ROOT\Directory\background\shellex\ContextMenuHandlers\ACE - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\ATI\ACE\Settings\ADL\AppProfiles - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\ATI\ACE\Settings\ADL\MaxCofuncPaths - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\ATI\ACE\Settings\ADL - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\ATI\ACE\Settings - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\ATI\ACE - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\ATI - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\ATI\ACE\Settings\ADL\MaxCofuncPaths - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\ATI\ACE\Settings\ADL - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\ATI\ACE\Settings - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\ATI\ACE - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\ATI - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\AMD\HKIDs - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\.DEFAULT\Software\AMD - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\AMD\HKIDs - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-3534167368-1684292906-1236983671-1001\Software\AMD - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Killing Explorer.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\GraphicType - Value removed.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Log - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\AMD\EEU - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\AMD - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Log - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Removing known Packages</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>-Starting S-1-5-xx region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>-End of S-1-5-xx region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>AudioEngine CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{6F7660B0-F375-40E9-B43C-6DC963093988} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{6F7660B0-F375-40E9-B43C-6DC963093988} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\AMDInstallUEP - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Killing Explorer.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Cleaning Directory (Please Wait...)</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amdave32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amdgfxinfo32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amdihk32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amdlvr32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amdpcom32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\drivers\AtihdWT6.sys</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amdxc32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amf-mft-mjpeg-decoder32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\amfrt32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdave64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdgfxinfo64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atiadlxx.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdhip64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atiadlxy.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atiapfxx.blb</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\aticfx32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atidxx32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atieah32.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atigktxx.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atimpc32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atisamu32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\atiumdva.cap</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\ativvsva.dat</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\ativvsvl.dat</Message>
+		</Event>
+		<Warning>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Couldn't delete path, access denied! Attempting to fix path's permissions.
+C:\Windows\system32\amdihk64.dll</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Windows\system32\amdihk64.dll</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Current Owner</Value>
+				</KvP>
+				<KvP>
+					<Key>  SID</Key>
+					<Value>S-1-5-32-544</Value>
+				</KvP>
+				<KvP>
+					<Key>  Domain</Key>
+					<Value>BUILTIN</Value>
+				</KvP>
+				<KvP>
+					<Key>  Name</Key>
+					<Value>Administrators</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>&gt; Owner is successfully set to System Account!</Value>
+				</KvP>
+				<KvP>
+					<Key>Fixed</Key>
+					<Value>Yes</Value>
+				</KvP>
+			</Values>
+		</Warning>
+		<Error>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Couldn't delete path!
+C:\Windows\system32\amdihk64.dll</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Windows\system32\amdihk64.dll</Value>
+				</KvP>
+				<KvP>
+					<Key>fixedAcl</Key>
+					<Value>True</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>DeleteInternal</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.FileIO.DeleteInternal(String fileName, Boolean fixedAcl) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\FileIO.vb:line 495</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\AMDKernelEvents.man</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdlvr64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdmiracast.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdpcom64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amdxc64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amf-mft-mjpeg-decoder64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\amfrt64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\ati2erec.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atiadlxx.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atiapfxx.blb</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\aticfx64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atidemgy.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atidxx64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atieah64.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atieclxx.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atig6txx.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atimpc64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atimuixx.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atisamu64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\atiumd6a.cap</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\ativvsva.dat</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\ativvsvl.dat</Message>
+		</Event>
+		<Warning>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Couldn't delete path, access denied! Attempting to fix path's permissions.
+C:\Windows\SysWOW64\GameManager32.dll</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Windows\SysWOW64\GameManager32.dll</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Current Owner</Value>
+				</KvP>
+				<KvP>
+					<Key>  SID</Key>
+					<Value>S-1-5-32-544</Value>
+				</KvP>
+				<KvP>
+					<Key>  Domain</Key>
+					<Value>BUILTIN</Value>
+				</KvP>
+				<KvP>
+					<Key>  Name</Key>
+					<Value>Administrators</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>&gt; Owner is successfully set to System Account!</Value>
+				</KvP>
+				<KvP>
+					<Key>Fixed</Key>
+					<Value>Yes</Value>
+				</KvP>
+			</Values>
+		</Warning>
+		<Error>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Couldn't delete path!
+C:\Windows\SysWOW64\GameManager32.dll</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Windows\SysWOW64\GameManager32.dll</Value>
+				</KvP>
+				<KvP>
+					<Key>fixedAcl</Key>
+					<Value>True</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>DeleteInternal</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.FileIO.DeleteInternal(String fileName, Boolean fixedAcl) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\FileIO.vb:line 495</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\clinfo.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\mantle32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\mantleaxl32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\mcl32.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\dgtrayicon.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\Rapidfire.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\SysWOW64\RapidFireServer.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\GameManager64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\kapp_ci.sbin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\kapp_si.sbin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\mantle64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\mantleaxl64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\mcl64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\Rapidfire64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:32 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\RapidFireServer64.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\samu_krnl_ci.sbin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Windows\system32\samu_krnl_isv_ci.sbin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\6b269f7b-05f3-4176-acbf-75f0a2e26e2c_2022_04_28_16_20_21_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\6b269f7b-05f3-4176-acbf-75f0a2e26e2c_2022_04_28_16_11_43_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\6b269f7b-05f3-4176-acbf-75f0a2e26e2c_2022_04_28_16_08_55_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\6b269f7b-05f3-4176-acbf-75f0a2e26e2c_2022_04_28_16_07_56_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\ProgramData\AMD\InstallUEP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\ProgramData\AMD</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\DxCache\aa00e1082641bae3f6958b1f5f1208b43e924805c1036343.bin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\DxCache\927855ff48325d1d60c79de499c6e49eba4c49dde93e98ba.bin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\DxCache\0c22406dabcb52a4eac59be88a49ec9ee74dfcd097d1fc79.bin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\AMD\DxCache</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\GLCache\d484f2b7ed0cbcb3_2e1cd2c33ea924b2_34.idx</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\GLCache\d484f2b7ed0cbcb3_2e1cd2c33ea924b2_34.bin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\GLCache\233f747ba72d112e_45ed354390629243_34.idx</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\GLCache\233f747ba72d112e_45ed354390629243_34.bin</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\AMD\GLCache</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\AMD\VkCache\D7631849F512E4075F2FE8E5F256CD9A.parc</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\AMD\VkCache</Message>
+		</Event>
+		<Warning>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Remaining folders found  : C:\Users\ays\AppData\Local\AMD\ --&gt; C:\Users\ays\AppData\Local\AMD\DX9Cache</Message>
+		</Warning>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\45a5e5b635b28e7a\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.val</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\45a5e5b635b28e7a\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.lock</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\45a5e5b635b28e7a\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.idx</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\D3DSCache\45a5e5b635b28e7a</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\8f0ee434a6d3c2f7\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.val</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\8f0ee434a6d3c2f7\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.lock</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\8f0ee434a6d3c2f7\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.idx</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\D3DSCache\8f0ee434a6d3c2f7</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.val</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.lock</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Users\ays\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&amp;DEV_73BF&amp;SUBSYS_232C&amp;REV_C0.idx</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\D3DSCache\d1045fa42060dcaf</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\Local\D3DSCache</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\LocalLow\AMD\DxCache</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Users\ays\AppData\LocalLow\AMD</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\SetupCD.txt</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-4-28_16_8_55.log</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-4-28_16_20_21.log</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-4-28_16_11_43.log</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\CIM\Log</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\CIM</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\InstallUEP\AMDInstallUEP.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\InstallUEP</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\atikmdag_dce.log</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: lsass</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Fixing registry driverstore if necessary</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Clean uninstall completed!
+&gt;&gt; GPU: AMD</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:33 PM</Time>
+			<Message>Scanning for new devices...</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:34 PM</Time>
+			<Message>ReScan of devices successfully completed!</Message>
+		</Event>
+		<Event>
+			<Time>4/28/2022 4:21:37 PM</Time>
+			<Message>&gt;&gt; Successfully saved log to file!</Message>
+		</Event>
+	</LogEntries>
+</DisplayDriverUninstaller>

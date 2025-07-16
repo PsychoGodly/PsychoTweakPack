@@ -1,0 +1,2536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DisplayDriverUninstaller Version="18.0.2.3">
+	<LogEntries>
+		<Event>
+			<Time>12/9/2022 9:36:46 PM</Time>
+			<Message>The following paths are detected.</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Key>[Found] AppExeFile</Key>
+					<Value>F:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Display Driver Uninstaller.exe</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] AppBase</Key>
+					<Value>F:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Settings</Key>
+					<Value>F:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Settings\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Logs</Key>
+					<Value>F:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\DDU Logs\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Language</Key>
+					<Value>F:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Settings\Languages\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] ProgramFiles</Key>
+					<Value>C:\Program Files\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] ProgramFilesx86</Key>
+					<Value>C:\Program Files (x86)\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] Roaming</Key>
+					<Value>C:\ProgramData\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Not found] AppBaseRoaming</Key>
+					<Value>C:\ProgramData\DisplayDriverUninstaller\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] SystemDrive</Key>
+					<Value>C:\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] WinDir</Key>
+					<Value>C:\Windows\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] UserPath</Key>
+					<Value>C:\Users\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] System32</Key>
+					<Value>C:\Windows\system32\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] SysWOW64</Key>
+					<Value>C:\Windows\SysWOW64\</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:36:47 PM</Time>
+			<Message>System Information</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>DDU Version</Key>
+					<Value>18.0.2.3</Value>
+				</KvP>
+				<KvP>
+					<Key>OS</Key>
+					<Value>Windows 10</Value>
+				</KvP>
+				<KvP>
+					<Key>Architecture</Key>
+					<Value>x64</Value>
+				</KvP>
+				<KvP>
+					<Key>UserRights</Key>
+					<Value>Admin</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:36:47 PM</Time>
+			<Message>We are not in Safe Mode</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:36:47 PM</Time>
+			<Message>The following third-party driver packages are installed on this computer</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Value>C:\Windows\inf\oem0.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Marvell</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem1.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Apple, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USB</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem10.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem11.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem12.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem13.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem14.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Keyboard</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem15.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Mouse</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem16.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem17.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Keyboard</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Apple</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem21.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Mouse</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem5.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem8.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem9.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Intel</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SoftwareComponent</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:36:49 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:36:49 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:36:49 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:10 PM</Time>
+			<Message>Restore Point Created</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Used settings for cleaning!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Paths</Key>
+					<Value>Display_Driver_Uninstaller.AppPaths</Value>
+				</KvP>
+				<KvP>
+					<Key>Success</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>GPURemovedSuccess</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventClose</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedGPU</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedAUDIO</Key>
+					<Value>None</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedType</Key>
+					<Value>GPU</Value>
+				</KvP>
+				<KvP>
+					<Key>AppName</Key>
+					<Value>Display Driver Uninstaller</Value>
+				</KvP>
+				<KvP>
+					<Key>WinVersion</Key>
+					<Value>Win10</Value>
+				</KvP>
+				<KvP>
+					<Key>WinIs64</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWinXp</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin8Higher</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin10</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ArgumentsArray</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>Silent</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Shutdown</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Restart</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>NoSafeModeMsg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanComplete</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanNvidia</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanAmd</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanIntel</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanRealtek</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanSoundBlaster</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventWinUpdateArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveMonitors</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>NoRestorePoint</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveCrimsonCache</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDDirs</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAudioBus</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDKMPFD</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveNvidiaDirs</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemovePhysX</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Remove3DTVPlay</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveGFE</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveVulkan</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>HasCleanArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>HasLinkArg</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Uninstalling AMD driver ...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Removing service(s) except for the &lt;device driver service(s)&gt;</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Executing SetupAPI: Remove Audio controler associated to the GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Device(s) found: 0</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>media</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>SetupAPI: Remove Audio controler Complete.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Removing AMD Audio Endpoints</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Device(s) found: 2</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>audioendpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{B25B97B1-B2BC-40A8-852E-C73350411A35}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>49</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (iFi (by AMR) HD USB Audio)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{5AD8315D-6F35-470F-98EC-D45B2D913E00}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>85</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Executing SetupAPI: Remove GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Devices found: 0</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002&amp;CC_03</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>SetupAPI: Remove GPU(s) Complete.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:15 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem5.inf
+&gt;&gt; Success!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem5.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem6.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem7.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem6.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem7.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>SetupAPI: Remove Audio/HDMI Complete</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Executing SetupAPI: Remove Monitor(s) started</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Device(s) found: 1</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>177</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; Generic PnP Monitor</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>177</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>REMOVABLE (0x4)
+SILENTINSTALL (0x20)
+RAWDEVICEOK (0x40)
+SURPRISEREMOVALOK (0x80)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>(Standard monitor types)</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.19041.1151</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\monitor.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>10/15/2022</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>177</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>SetupAPI: Remove Monitor(s) Complete .</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Cleaning Process/Services...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Failed to remove the service : amdkmdap</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Process/Services CleanUP Complete</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Cleaning known Regkeys</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Starting dcom/clsid/appid/typelib cleanup</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Begin ClassRoot CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>End ClassRoot CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:16 PM</Time>
+			<Message>Start Interface CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>END Interface CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Instance class cleanUP</Message>
+		</Event>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{1024083A-700E-4930-8C75-DA9DFD3F4CE8}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{1024083A-700E-4930-8C75-DA9DFD3F4CE8}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{10F7B70E-2F31-40C5-9828-284268B0C842}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{10F7B70E-2F31-40C5-9828-284268B0C842}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{23F3E3B8-F4CA-4DDF-B357-3261F39DF242}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{23F3E3B8-F4CA-4DDF-B357-3261F39DF242}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{3898D8A0-A9A3-4B80-BDC2-DF400AF0DD3C}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{3898D8A0-A9A3-4B80-BDC2-DF400AF0DD3C}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{46B46FE2-33BC-4C5A-9794-FB979A345BFC}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{46B46FE2-33BC-4C5A-9794-FB979A345BFC}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{4EA1C3C6-7D38-40D4-976C-CA2709E27637}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{4EA1C3C6-7D38-40D4-976C-CA2709E27637}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{6461DDD1-48E9-41D4-8B5B-03618C68BB0B}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{6461DDD1-48E9-41D4-8B5B-03618C68BB0B}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{8834A25A-B03E-465C-95AC-F362BB0E5C36}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{8834A25A-B03E-465C-95AC-F362BB0E5C36}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9A7B98AE-7464-4512-9670-0B480E483E6D}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9A7B98AE-7464-4512-9670-0B480E483E6D}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9F5F521F-522F-4149-9609-078509D4FD9B}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9F5F521F-522F-4149-9609-078509D4FD9B}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{A807D72D-4267-43FA-8217-07C9FDCDBFF6}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{A807D72D-4267-43FA-8217-07C9FDCDBFF6}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{AEA8EF48-E24D-4E56-B996-74975961C5E4}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{AEA8EF48-E24D-4E56-B996-74975961C5E4}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B05EA49F-5EF1-41E2-AB5E-F8E4E0397B1D}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B05EA49F-5EF1-41E2-AB5E-F8E4E0397B1D}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B1D216ED-FBFF-48EB-8474-804E3D81BA07}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B1D216ED-FBFF-48EB-8474-804E3D81BA07}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C4495A74-B5C4-401E-95B8-77A5FDF5D59A}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C4495A74-B5C4-401E-95B8-77A5FDF5D59A}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C7D328E5-3F75-4137-AA1B-559B1BA54F68}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C7D328E5-3F75-4137-AA1B-559B1BA54F68}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{F11C06FD-4CBB-42F1-BB87-6EED8BEA1BC3}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{F11C06FD-4CBB-42F1-BB87-6EED8BEA1BC3}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>MediaFoundation cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>AppID and clsidleftover cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:17 PM</Time>
+			<Message>Begin clsidleftover CleanUP</Message>
+		</Event>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{1024083A-700E-4930-8C75-DA9DFD3F4CE8}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{1024083A-700E-4930-8C75-DA9DFD3F4CE8}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{10F7B70E-2F31-40C5-9828-284268B0C842}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{10F7B70E-2F31-40C5-9828-284268B0C842}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{23F3E3B8-F4CA-4DDF-B357-3261F39DF242}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{23F3E3B8-F4CA-4DDF-B357-3261F39DF242}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{3898D8A0-A9A3-4B80-BDC2-DF400AF0DD3C}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{3898D8A0-A9A3-4B80-BDC2-DF400AF0DD3C}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{46B46FE2-33BC-4C5A-9794-FB979A345BFC}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{46B46FE2-33BC-4C5A-9794-FB979A345BFC}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{4EA1C3C6-7D38-40D4-976C-CA2709E27637}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{4EA1C3C6-7D38-40D4-976C-CA2709E27637}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{6461DDD1-48E9-41D4-8B5B-03618C68BB0B}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{6461DDD1-48E9-41D4-8B5B-03618C68BB0B}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{8834A25A-B03E-465C-95AC-F362BB0E5C36}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{8834A25A-B03E-465C-95AC-F362BB0E5C36}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9A7B98AE-7464-4512-9670-0B480E483E6D}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9A7B98AE-7464-4512-9670-0B480E483E6D}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9F5F521F-522F-4149-9609-078509D4FD9B}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9F5F521F-522F-4149-9609-078509D4FD9B}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{A807D72D-4267-43FA-8217-07C9FDCDBFF6}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{A807D72D-4267-43FA-8217-07C9FDCDBFF6}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{AEA8EF48-E24D-4E56-B996-74975961C5E4}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{AEA8EF48-E24D-4E56-B996-74975961C5E4}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B05EA49F-5EF1-41E2-AB5E-F8E4E0397B1D}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B05EA49F-5EF1-41E2-AB5E-F8E4E0397B1D}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B1D216ED-FBFF-48EB-8474-804E3D81BA07}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{B1D216ED-FBFF-48EB-8474-804E3D81BA07}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C4495A74-B5C4-401E-95B8-77A5FDF5D59A}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C4495A74-B5C4-401E-95B8-77A5FDF5D59A}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:18 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C7D328E5-3F75-4137-AA1B-559B1BA54F68}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{C7D328E5-3F75-4137-AA1B-559B1BA54F68}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Access is denied! Attempting to fix path's permissions.
+&gt;&gt; HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{F11C06FD-4CBB-42F1-BB87-6EED8BEA1BC3}</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fullPath</Key>
+					<Value>HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{F11C06FD-4CBB-42F1-BB87-6EED8BEA1BC3}</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>fixed?</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>FixRights</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.ACL.Registry.FixRights(String fullPath, LogEntry&amp; logEntry) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\ACL.vb:line 1034</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Orphan cleanUp</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>End Orphan cleanUp</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>End clsidleftover CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Record CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Assembly CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>ngenservice Clean</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Pnplockdownfiles region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>System environement cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Remove eventviewer stuff</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Killing Explorer.exe</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\GraphicType - Value removed.</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Remaining Key(s) found  : HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\ --&gt; WVR64</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Log - Deleted.</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Remaining Key(s) found  : HKEY_LOCAL_MACHINE\Software\ATI Technologies\ --&gt; Install</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Log - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Removing known Packages</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>-Starting S-1-5-xx region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>-End of S-1-5-xx region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>AudioEngine CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{65CB79E3-3FD8-4F3E-815A-2C4EDF266191} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{65CB79E3-3FD8-4F3E-815A-2C4EDF266191} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\AMDInstallUEP - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Killing Explorer.exe</Message>
+		</Event>
+		<Error>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Access is denied</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Value>@KillProcess()</Value>
+				</KvP>
+				<KvP>
+					<Value>ProcessName: explorer</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>Kill</TargetSite>
+				<Source>System</Source>
+				<StackTrace>   at System.Diagnostics.Process.Kill()
+   at Display_Driver_Uninstaller.GPUCleanup.KillProcess(String[] processnames) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\GPUCleanup.vb:line 597</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:19 PM</Time>
+			<Message>Cleaning Directory (Please Wait...)</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\887e862c-197c-4141-ae6e-82093c988f09_2022_12_09_21_34_47_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted directory:
+C:\ProgramData\AMD\InstallUEP</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Remaining folders found  : C:\ProgramData\AMD\ --&gt; C:\ProgramData\AMD\UxG</Message>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\Administrator\AppData\Local\AMD\ --&gt; C:\Users\Administrator\AppData\Local\AMD\cl.cache</Message>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\Administrator\AppData\Local\AMD\ --&gt; C:\Users\Administrator\AppData\Local\AMD\DX9Cache</Message>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\Administrator\AppData\Local\AMD\ --&gt; C:\Users\Administrator\AppData\Local\AMD\DxcCache</Message>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\Administrator\AppData\Local\AMD\ --&gt; C:\Users\Administrator\AppData\Local\AMD\OglpCache</Message>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\Administrator\AppData\Local\AMD\ --&gt; C:\Users\Administrator\AppData\Local\AMD\OpenVR</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Users\Administrator\AppData\Local\D3DSCache\ecbf0d5a3a180bb\F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Users\Administrator\AppData\Local\D3DSCache\ecbf0d5a3a180bb\F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Users\Administrator\AppData\Local\D3DSCache\ecbf0d5a3a180bb\F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted directory:
+C:\Users\Administrator\AppData\Local\D3DSCache\ecbf0d5a3a180bb</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted directory:
+C:\Users\Administrator\AppData\Local\D3DSCache</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\SetupCD.txt</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-12-9_21_34_47.log</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-12-9_21_26_7.log</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-12-9_21_25_36.log</Message>
+		</Event>
+		<Error>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Couldn't delete path! File is used by another process!
+C:\Program Files\AMD\CIM\Log\Install.log</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Program Files\AMD\CIM\Log\Install.log</Value>
+				</KvP>
+				<KvP>
+					<Key>fixedAcl</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>The process cannot access the file because it is being used by another process</Win32_Message>
+				<Win32_ErrorName>ERROR_SHARING_VIOLATION (0x0020)</Win32_ErrorName>
+				<Win32_ErrorCode>32 (0x20)</Win32_ErrorCode>
+				<TargetSite>DeleteInternal</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.FileIO.DeleteInternal(String fileName, Boolean fixedAcl) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\FileIO.vb:line 556</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:20 PM</Time>
+			<Message>Couldn't delete path! File is used by another process!
+C:\Program Files\AMD\CIM\Log\Install.log</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Program Files\AMD\CIM\Log\Install.log</Value>
+				</KvP>
+				<KvP>
+					<Key>fixedAcl</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>The process cannot access the file because it is being used by another process</Win32_Message>
+				<Win32_ErrorName>ERROR_SHARING_VIOLATION (0x0020)</Win32_ErrorName>
+				<Win32_ErrorCode>32 (0x20)</Win32_ErrorCode>
+				<TargetSite>DeleteInternal</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.FileIO.DeleteInternal(String fileName, Boolean fixedAcl) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\FileIO.vb:line 556</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:21 PM</Time>
+			<Message>Couldn't delete path!
+C:\Program Files\AMD\CIM\Log</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Program Files\AMD\CIM\Log</Value>
+				</KvP>
+				<KvP>
+					<Key>fixedAcl</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>The directory is not empty</Win32_Message>
+				<Win32_ErrorName>ERROR_DIR_NOT_EMPTY (0x0091)</Win32_ErrorName>
+				<Win32_ErrorCode>145 (0x91)</Win32_ErrorCode>
+				<TargetSite>DeleteInternal</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.FileIO.DeleteInternal(String fileName, Boolean fixedAcl) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\FileIO.vb:line 409</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Error>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Couldn't delete path!
+C:\Program Files\AMD\CIM</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>fileName</Key>
+					<Value>C:\Program Files\AMD\CIM</Value>
+				</KvP>
+				<KvP>
+					<Key>fixedAcl</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>The directory is not empty</Win32_Message>
+				<Win32_ErrorName>ERROR_DIR_NOT_EMPTY (0x0091)</Win32_ErrorName>
+				<Win32_ErrorCode>145 (0x91)</Win32_ErrorCode>
+				<TargetSite>DeleteInternal</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.FileIO.DeleteInternal(String fileName, Boolean fixedAcl) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\FileIO.vb:line 409</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\InstallUEP\AMDInstallUEP.exe</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\InstallUEP</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Remaining folders found  : C:\Program Files\AMD\ --&gt; C:\Program Files\AMD\CIM</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Warning>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem6.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem7.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: GameManagerService</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Fixing registry driverstore if necessary</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>Clean uninstall completed!
+&gt;&gt; GPU: AMD</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2022 9:42:23 PM</Time>
+			<Message>&gt;&gt; Successfully saved log to file!</Message>
+		</Event>
+	</LogEntries>
+</DisplayDriverUninstaller>
