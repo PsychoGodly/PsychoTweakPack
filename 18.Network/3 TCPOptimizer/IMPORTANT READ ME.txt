@@ -1,0 +1,3 @@
+tcp optimizer does affect udp as well, I don't need people to keep telling me I'm stupid because multiplayer games primarily use udp. They use both, and tcp optimizer affects the udp.
+
+no hate towards me pls and thanks, I'm a human w/ feelings too
