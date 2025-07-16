@@ -1,0 +1,27 @@
+﻿Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm]
+"DisablePreemption"=dword:00000001
+"DisableCudaContextPreemption"=dword:00000001
+"EnableCEPreemption"=dword:00000000
+"DisablePreemptionOnS3S4"=dword:00000001
+"EnableTiledDisplay"=dword:00000000
+"UvmDisable"=dword:00000001
+"LogWarningEntries"=dword:00000000
+"LogPagingEntries"=dword:00000000
+"LogEventEntries"=dword:00000000
+"LogErrorEntries"=dword:00000000
+"ComputePreemption"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global\NVTweak]
+"DisplayPowerSaving"=dword:00000000
+
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"EnablePreemption"=dword:00000000
+
+
+
+

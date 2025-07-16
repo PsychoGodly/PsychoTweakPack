@@ -1,0 +1,2211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DisplayDriverUninstaller Version="18.0.2.3">
+	<LogEntries>
+		<Event>
+			<Time>4/14/2022 2:05:12 PM</Time>
+			<Message>The following paths are detected.</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Key>[Found] AppExeFile</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Display Driver Uninstaller.exe</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] AppBase</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Settings</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Settings\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Logs</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\DDU Logs\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Language</Key>
+					<Value>E:\aysa\SOFTWARES\optimization stuff\aysa opti\DDU v18.0.2.3\Settings\Languages\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] ProgramFiles</Key>
+					<Value>C:\Program Files\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] ProgramFilesx86</Key>
+					<Value>C:\Program Files (x86)\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] Roaming</Key>
+					<Value>C:\ProgramData\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Not found] AppBaseRoaming</Key>
+					<Value>C:\ProgramData\DisplayDriverUninstaller\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] SystemDrive</Key>
+					<Value>C:\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] WinDir</Key>
+					<Value>C:\Windows\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] UserPath</Key>
+					<Value>C:\Users\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] System32</Key>
+					<Value>C:\Windows\system32\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] SysWOW64</Key>
+					<Value>C:\Windows\SysWOW64\</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:13 PM</Time>
+			<Message>System Information</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>DDU Version</Key>
+					<Value>18.0.2.3</Value>
+				</KvP>
+				<KvP>
+					<Key>OS</Key>
+					<Value>Windows 10</Value>
+				</KvP>
+				<KvP>
+					<Key>Architecture</Key>
+					<Value>x64</Value>
+				</KvP>
+				<KvP>
+					<Key>UserRights</Key>
+					<Value>Admin</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:13 PM</Time>
+			<Message>We are not in Safe Mode</Message>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:13 PM</Time>
+			<Message>The following third-party driver packages are installed on this computer</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Value>C:\Windows\inf\oem0.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Samsung Electronics Co., Ltd</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SCSIAdapter</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem1.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem13.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Printer</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem14.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Marvell</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Apple, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USBDevice</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem21.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Corsair</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Corsair</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem24.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Corsair Components, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USB</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem3.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem4.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem5.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Keyboard</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Mouse</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Razer Device</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:13 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:13 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:13 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Error>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>System Restored Point could not be Created!</Message>
+			<ExceptionData>
+				<Message>Unable to load DLL 'srclient.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)</Message>
+				<TargetSite>SRSetRestorePoint</TargetSite>
+				<Source>Display Driver Uninstaller</Source>
+				<StackTrace>   at Display_Driver_Uninstaller.Win32.SystemRestore.SRSetRestorePoint(IntPtr pRestorePtSpec, IntPtr pSMgrStatus)
+   at Display_Driver_Uninstaller.Win32.SystemRestore.EndRestore(Int64 lSeqNum) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\Win32\SystemRestore.vb:line 197
+   at Display_Driver_Uninstaller.frmSystemRestore.CreateSystemRestore() in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\frmSystemRestore.xaml.vb:line 39</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Used settings for cleaning!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Paths</Key>
+					<Value>Display_Driver_Uninstaller.AppPaths</Value>
+				</KvP>
+				<KvP>
+					<Key>Success</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>GPURemovedSuccess</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventClose</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedGPU</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedAUDIO</Key>
+					<Value>None</Value>
+				</KvP>
+				<KvP>
+					<Key>SelectedType</Key>
+					<Value>GPU</Value>
+				</KvP>
+				<KvP>
+					<Key>AppName</Key>
+					<Value>Display Driver Uninstaller</Value>
+				</KvP>
+				<KvP>
+					<Key>WinVersion</Key>
+					<Value>Win10</Value>
+				</KvP>
+				<KvP>
+					<Key>WinIs64</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWinXp</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin8Higher</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>IsWin10</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ArgumentsArray</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>Silent</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Shutdown</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>Restart</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>NoSafeModeMsg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanComplete</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanNvidia</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanAmd</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanIntel</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanRealtek</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>CleanSoundBlaster</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>PreventWinUpdateArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveMonitors</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>NoRestorePoint</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveCrimsonCache</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDDirs</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAudioBus</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveAMDKMPFD</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveNvidiaDirs</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemovePhysX</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Remove3DTVPlay</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveGFE</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>RemoveVulkan</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>HasCleanArg</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP>
+					<Key>HasLinkArg</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Uninstalling AMD driver ...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Removing service(s) except for the &lt;device driver service(s)&gt;</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Executing SetupAPI: Remove Audio controler associated to the GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Device(s) found: 0</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>media</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>SetupAPI: Remove Audio controler Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:16 PM</Time>
+			<Message>Removing AMD Audio Endpoints</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Device(s) found: 8</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>audioendpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>SPDIF Interface (Realtek USB2.0 Audio)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{85975E04-CA1B-4AF7-ACE2-10A4F35B62D7}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>30</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (SMSL USB AUDIO)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{A9BEE429-5501-41DE-910F-AF5AA0BEBF53}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>61</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (4- K3)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{081D48F5-3ED2-4E97-A011-FB0319D428CC}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>85</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Microphone (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.1.00000000}.{FE717CBA-9C6A-42E7-ACE3-647355571214}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>90</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (2- K3)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{6C245AAF-1163-4EEB-978E-B651CD0B4580}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>96</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (3- K3)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{9E10E9CE-86DA-4489-9A17-B4201F74F88B}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>132</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (K3)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{2D5148B2-8804-450B-AAB4-F72AA0C6DCC9}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>175</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Audio Endpoint</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>Speakers (BLUE USB Audio 2.0)</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>AudioEndpoint</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>SWD\MMDEVAPI\{0.0.0.00000000}.{19D117A2-C3C3-4CF9-B4C3-381AC321F7D2}</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>191</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>1</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MMDEVAPI\AudioEndpoints</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>GenericAudioEndpoint
+SWD\GenericRaw
+SWD\Generic</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>CR_NO_SUCH_DEVINST (Device doesn't exist)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Executing SetupAPI: Remove GPU(s).</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Devices found: 0</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>VEN_1002&amp;CC_03</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>SetupAPI: Remove GPU(s) Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem18.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem19.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem20.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem18.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem19.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem20.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>SetupAPI: Remove Audio/HDMI Complete</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Executing SetupAPI: Remove Monitor(s) started</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Device(s) found: 1</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>-&gt; className</Key>
+					<Value>monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; vendorID</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>-&gt; includeSiblings</Key>
+					<Value>False</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>183</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Beginning of uninstalling device:
+&gt;&gt; Generic PnP Monitor</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>-</Value>
+				</KvP>
+				<KvP>
+					<Key>ClassName</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>183</Value>
+				</KvP>
+				<KvP>
+					<Key>InstallState</Key>
+					<Value>Installed (0x0)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>SiblingDevices</Key>
+					<Value>0</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>HardwareIDs</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>CompatibleIDs</Key>
+					<Value>*PNP09FF</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevProblem</Key>
+					<Value>OK (0x00)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>DevStatus</Key>
+					<Value>DRIVER_LOADED (0x2)
+STARTED (0x8)
+DISABLEABLE (0x2000)
+REMOVABLE (0x4000)
+NT_ENUMERATOR (0x800000)
+NT_DRIVER (0x1000000)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>InstallFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>ConfigFlags</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Capabilities</Key>
+					<Value>REMOVABLE (0x4)
+SILENTINSTALL (0x20)
+RAWDEVICEOK (0x40)
+SURPRISEREMOVALOK (0x80)</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>OemInfs</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>Driver Details</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Manufacturer</Key>
+					<Value>(Standard monitor types)</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverDate</Key>
+					<Value>6/21/2006 12:00:00 AM</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; DriverVersion</Key>
+					<Value>10.0.19041.1151</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt; InfFile</Key>
+					<Value>C:\Windows\INF\monitor.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   InstallDate</Key>
+					<Value>2/2/2022</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Class</Key>
+					<Value>Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>&gt;&gt;   Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Value>&gt;</Value>
+				</KvP>
+				<KvP>
+					<Value>---</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Uninstalling device...
+&gt;&gt; Device successfully uninstalled!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Description</Key>
+					<Value>Generic PnP Monitor</Value>
+				</KvP>
+				<KvP>
+					<Key>FriendlyName</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP>
+					<Key>DeviceID</Key>
+					<Value>DISPLAY\HPN3644\1&amp;8713BCA&amp;0&amp;UID0</Value>
+				</KvP>
+				<KvP>
+					<Key>DevInst</Key>
+					<Value>183</Value>
+				</KvP>
+				<KvP>
+					<Key>HardwareID</Key>
+					<Value>MONITOR\HPN3644</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>RebootRequired</Key>
+					<Value>No</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>SetupAPI: Remove Monitor(s) Complete .</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Cleaning Process/Services...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Failed to remove the service : amdkmdap</Message>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Process/Services CleanUP Complete</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Cleaning known Regkeys</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Starting dcom/clsid/appid/typelib cleanup</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Begin ClassRoot CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>End ClassRoot CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:17 PM</Time>
+			<Message>Start Interface CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:18 PM</Time>
+			<Message>END Interface CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:18 PM</Time>
+			<Message>Instance class cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:18 PM</Time>
+			<Message>MediaFoundation cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:18 PM</Time>
+			<Message>AppID and clsidleftover cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:18 PM</Time>
+			<Message>Begin clsidleftover CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Orphan cleanUp</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>End Orphan cleanUp</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>End clsidleftover CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Record CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Assembly CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: svchost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>ngenservice Clean</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Pnplockdownfiles region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>System environement cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remove eventviewer stuff</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-2865194159-4134036109-2417127949-1001\Software\AMD\DVR - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_USERS\S-1-5-21-2865194159-4134036109-2417127949-1001\Software\AMD - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Killing Explorer.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\GraphicType - Value removed.</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining Key(s) found  : HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\ --&gt; WVR64</Message>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\ATI Technologies\Log - Deleted.</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining Key(s) found  : HKEY_LOCAL_MACHINE\Software\ATI Technologies\ --&gt; Install</Message>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Log - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Removing known Packages</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>-Starting S-1-5-xx region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>-End of S-1-5-xx region cleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>AudioEngine CleanUP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{88B8BCC6-FEF2-4ADA-B7BE-E55A32144951} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{88B8BCC6-FEF2-4ADA-B7BE-E55A32144951} - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\AMDInstallUEP - Deleted.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Killing Explorer.exe</Message>
+		</Event>
+		<Error>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Access is denied</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Value>@KillProcess()</Value>
+				</KvP>
+				<KvP>
+					<Value>ProcessName: explorer</Value>
+				</KvP>
+			</Values>
+			<ExceptionData>
+				<Win32_Message>Access is denied</Win32_Message>
+				<Win32_ErrorName>ERROR_ACCESS_DENIED (0x0005)</Win32_ErrorName>
+				<Win32_ErrorCode>5 (0x5)</Win32_ErrorCode>
+				<TargetSite>Kill</TargetSite>
+				<Source>System</Source>
+				<StackTrace>   at System.Diagnostics.Process.Kill()
+   at Display_Driver_Uninstaller.GPUCleanup.KillProcess(String[] processnames) in C:\Users\ghisl\OneDrive\Documents\Programmation\wpf\display-drivers-uninstaller\display-driver-uninstaller\Display Driver Uninstaller\GPUCleanup.vb:line 597</StackTrace>
+			</ExceptionData>
+		</Error>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: SearchProtocolHost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Cleaning Directory (Please Wait...)</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Windows\Prefetch\CNCMD.EXE-12D2F4DA.pf</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\939b61bc-a668-465c-8371-d8ce0f63d6d6_2022_04_14_14_04_59_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\939b61bc-a668-465c-8371-d8ce0f63d6d6_2022_04_14_14_01_47_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\939b61bc-a668-465c-8371-d8ce0f63d6d6_2022_04_14_14_00_55_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\ProgramData\AMD\InstallUEP\939b61bc-a668-465c-8371-d8ce0f63d6d6_2022_04_14_13_58_21_InstallUEPData.json.gz</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\ProgramData\AMD\InstallUEP</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining folders found  : C:\ProgramData\AMD\ --&gt; C:\ProgramData\AMD\UxG</Message>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\ays\AppData\Local\AMD\ --&gt; C:\Users\ays\AppData\Local\AMD\cl.cache</Message>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\ays\AppData\Local\AMD\ --&gt; C:\Users\ays\AppData\Local\AMD\DX9Cache</Message>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\ays\AppData\Local\AMD\ --&gt; C:\Users\ays\AppData\Local\AMD\DxcCache</Message>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Remaining folders found  : C:\Users\ays\AppData\Local\AMD\ --&gt; C:\Users\ays\AppData\Local\AMD\OpenVR</Message>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\SetupCD.txt</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-4-14_14_4_59.log</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-4-14_14_1_47.log</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log_2022-4-14_14_0_55.log</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CIM\Log\Install.log</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\CIM\Log</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\CIM</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\vcruntime140.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\RadeonSoftware.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5XmlPatterns.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Xml.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5WinExtras.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Widgets.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5WebEngineCore.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5WebEngine.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5WebChannel.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Sql.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Quick.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5QmlModels.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Qml.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Positioning.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Network.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Multimedia.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Gui.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\Qt5Core.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\msvcp140.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\libGLESv2.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\libEGL.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\D3Dcompiler_47.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\cncmd.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\amdow.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\CNext\CNext\amdlinkremoteserver.dll</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\CNext\CNext</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\CNext</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\InstallUEP\AMDInstallUEP.exe</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD\InstallUEP</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted file:
+C:\Program Files\AMD\atikmdag_dce.log</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Deleted directory:
+C:\Program Files\AMD</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Executing Driver Store cleanUP(Find OEM)...</Message>
+		</Event>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem18.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem19.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>Extension</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>Yes</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Warning>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Uninstalling OEM Inf:  oem20.inf
+&gt;&gt; Cancelled! Inf is used by device!</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>File</Key>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>  Provider</Key>
+					<Value>AMD</Value>
+				</KvP>
+				<KvP>
+					<Key>  Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>Force</Key>
+					<Value>No</Value>
+				</KvP>
+				<KvP />
+			</Values>
+			<ExceptionData>
+				<Win32_Message>ERROR_INF_IN_USE (0xE000023D)</Win32_Message>
+				<Win32_ErrorName>ERROR_INF_IN_USE (0xE000023D)</Win32_ErrorName>
+				<Win32_ErrorCode>-536870339 (0xE000023D)</Win32_ErrorCode>
+			</ExceptionData>
+		</Warning>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Driver Store CleanUP Complete.</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Trying to impersonate the SYSTEM account...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>SYSTEM account impersonalisation successful with process: SearchProtocolHost</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:20 PM</Time>
+			<Message>Fixing registry driverstore if necessary</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:21 PM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:21 PM</Time>
+			<Message>Clean uninstall completed!
+&gt;&gt; GPU: AMD</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:21 PM</Time>
+			<Message>Scanning for new devices...</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:22 PM</Time>
+			<Message>ReScan of devices successfully completed!</Message>
+		</Event>
+		<Event>
+			<Time>4/14/2022 2:05:23 PM</Time>
+			<Message>&gt;&gt; Successfully saved log to file!</Message>
+		</Event>
+	</LogEntries>
+</DisplayDriverUninstaller>
