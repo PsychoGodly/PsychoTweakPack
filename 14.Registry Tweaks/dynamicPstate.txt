@@ -1,0 +1,20 @@
+go into dev manager, 
+
+display adapter, 
+
+right click your gpu,
+
+hit details,
+
+under property go to class guid and copy it
+
+go to
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class
+
+click class, then at the top, go to edit, find, paste
+and search
+
+once there, expand, click 0000
+
+create new dword value and type DisableDynamicPstate and set it to 1
