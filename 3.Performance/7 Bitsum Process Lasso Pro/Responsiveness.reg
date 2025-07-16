@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"DragFullWindows"="0"
+"Win8DpiScaling"=dword:00000000
+"DpiScalingVer"=dword:00001000
+"LastUpdated"=dword:ffffffff
+"AutoEndTasks"="1"
+"MenuShowDelay"="0"
+"Pattern Upgrade"="TRUE"
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel]
+"GlobalTimerResolutionRequests"=dword:00000001
